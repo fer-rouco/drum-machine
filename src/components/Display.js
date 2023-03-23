@@ -20,7 +20,7 @@ export class Display extends React.Component {
 
   render() {
     return (
-      <StyledDiv className={(this.props.disabled) ? 'disabled' : ''}>
+      <StyledDiv id="display" className={(this.props.disabled) ? 'disabled' : ''}>
         {(this.props.disabled) ? '' : this.props.text} 
       </StyledDiv>
     );
