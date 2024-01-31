@@ -2,7 +2,7 @@
 
 > App to play the drum with your keyboard
 
-Available live [here](https://fernet87.github.io/drum-machine/) 
+Available live [here](https://fer-rouco.github.io/drum-machine/) 
 
 ## About the Project
 
